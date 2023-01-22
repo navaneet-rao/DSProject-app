@@ -9,5 +9,4 @@ void main(array<String^>^ args) {
 	Application::EnableVisualStyles();
 	DSProjectapp::MyForm frm;
 	Application::Run(% frm);
-
 }
